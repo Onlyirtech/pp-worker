@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 [vars]
 # UUID = "2cd61524-9843-43ab-8a0a-df4a744bb859"
 PROXYIP = "https://1.1.1.1/dns-query"
-# DNS_RESOLVER_URL = "https://1.1.1.1/dns-query"
+DNS_RESOLVER_URL = "https://1.1.1.1/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
